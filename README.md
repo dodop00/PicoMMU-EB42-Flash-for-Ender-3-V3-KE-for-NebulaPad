@@ -27,6 +27,8 @@ Use the included binary as-is for the EBB42/Pico MMU MCU.
 
 Most EBB42 boards use **STM32G0B1** with a **32 KiB bootloader**. The firmware file below assumes that.
 
+DFU Util v0.9: https://sourceforge.net/projects/dfu-util/files/
+
 **Enter DFU mode**
 1. Unplug USB from the EBB42  
 2. Hold **BOOT**, tap **RESET**, release **BOOT**  
