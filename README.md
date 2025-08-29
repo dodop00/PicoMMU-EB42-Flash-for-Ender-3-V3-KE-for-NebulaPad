@@ -19,8 +19,7 @@ Use the included binary as-is for the EBB42/Pico MMU MCU.
 - `firmware/` — prebuilt MCU firmware binary for EBB42/Pico MMU  
 - `extras/` — Python modules to copy into the Nebula Pad’s `klippy/extras/` (e.g., `prtouch_v2.py`, `z_compensate.py`, `mcu_temperature.py`, etc.)  
 - `config/` — minimal example/snippets (`printer.cfg.example`)  
-- `README.md` — this file  
-- `LICENSE` — GPLv3
+
 
 ---
 
